@@ -18,6 +18,7 @@ public class Lesson1 {
 
         int x = 49838;
         System.out.println(x);
+        System.out.println(x);
 
         long y = 2827192L;
         System.out.println(y);
